@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @firebolt778
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Artificial Intelligence.
-- 📫 How to reach me [mailto:firebolt77800@gmail.com](firebolt77800@gmail.com)
+- 📫 How to reach me [firebolt77800@gmail.com](mailto:firebolt77800@gmail.com)
